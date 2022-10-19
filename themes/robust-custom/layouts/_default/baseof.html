@@ -1,56 +1,63 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    {{ partial "meta.html" . }}
-    {{ with .Site.Params.googlefonts }}
-    <link href="{{ . }}" rel="stylesheet">
-    {{ else }}
-    <link href="//fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
-    {{ end }}
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">    
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
-    <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
-    {{ block "meta" . }}{{ end }}
-    <style>
-      {{ replaceRE " +" " " (replaceRE "\n" "" (partial "styles.css" .)) | safeCSS }}
-      {{ replaceRE " +" " " (replaceRE "\n" "" (partial "custom.css" .)) | safeCSS }}
-      {{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
-      {{ with .Site.Params.logofontfamily }} .h-logo { font-family: {{ . | safeCSS }}; } {{ end }}
-    </style>
-  </head>
 
-  <body>
-    {{ if ne (getenv "HUGO_ENV") "DEV" }}
-    {{ template "_internal/google_analytics.html" . }}
-    {{ end }}
+<head>
+  {{ partial "meta.html" . }}
+  {{ with .Site.Params.googlefonts }}
+  <link href="{{ . }}" rel="stylesheet">
+  {{ else }}
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
+  {{ end }}
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+    integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+  <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
+  {{ block "meta" . }}{{ end }}
+  <style>
+  {{ replaceRE " +" " " (replaceRE "\n" "" (partial "styles.css" .)) | safeCSS }}
+  {{ replaceRE " +" " " (replaceRE "\n" "" (partial "custom.css" .)) | safeCSS }}
+  {{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
+  {{ with .Site.Params.logofontfamily }} .h-logo { font-family: {{ . | safeCSS }}; } {{ end }}
+  </style>
+</head>
 
-    <header class="l-header">
-      <div class="l-container">
-        <div class="logo">
-          <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-        </div>
-        {{ partial "description.html" . }}
+<body>
+  {{ if ne (getenv "HUGO_ENV") "DEV" }}
+  {{ template "_internal/google_analytics.html" . }}
+  {{ end }}
+
+  <header class="l-header">
+    <div class="l-container">
+      <div class="logo">
+        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
       </div>
-    </header>
+      {{ partial "description.html" . }}
+    </div>
+  </header>
 
-    <main>
-      <div class="l-container">
-        {{ block "main" . }}{{ end }}
-      </div>
-    </main>
+  <main>
+    <div class="l-container">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </main>
 
-    <footer class="l-footer">
-      <div class="l-container">
-        <p>{{ with .Site.Copyright }}{{ . | safeHTML }}{{ else }}<span class="h-logo">Original content &copy; {{ .Site.Title }} ({{ .Site.Params.Author.Name }})</span>{{ end }}</p>
-        <aside>
-          <p>Powered by <a href="https://gohugo.io/">Hugo</a>.</p>
-          <p>Custom theme based on <a href="https://github.com/dim0627/hugo_theme_robust">Robust</a> designed by <a href="http://yet.unresolved.xyz/">Daisuke Tsuji</a>.</p>
-        </aside>
-      </div>
-    </footer>
+  <footer class="l-footer">
+    <div class="l-container">
+      <p>{{ with .Site.Copyright }}{{ . | safeHTML }}{{ else }}<span class="h-logo">Original content &copy;
+          {{ .Site.Title }} ({{ .Site.Params.Author.Name }})</span>{{ end }}</p>
+      <aside>
+        <p>Powered by <a href="https://gohugo.io/">Hugo</a>.</p>
+        <p>Custom theme based on <a href="https://github.com/dim0627/hugo_theme_robust">Robust</a> designed by <a
+            href="http://yet.unresolved.xyz/">Daisuke Tsuji</a>.</p>
+        <p>All images on this site are either original content by the author, AI generated, or used in accordance with
+          Copyright Fair
+          Use Doctrine as part of a descriptive or critical work.</p>
+      </aside>
+    </div>
+  </footer>
 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-  </body>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+</body>
+
 </html>
-

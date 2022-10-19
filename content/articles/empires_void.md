@@ -1,7 +1,7 @@
 ---
 title: "Star Empires for Roleplaying: The Void Trilogy"
 date: 2021-01-13
-thumbnail: "articles/empires_void.jpg"
+thumbnail: "articles/empires_void.png"
 categories: ["Role Playing Games"]
 tags: [“Empires"]
 draft: true
@@ -12,4 +12,5 @@ _When it comes to science-fiction roleplaying games, Traveller is granddaddy of 
 [Cover image by Pan Macmillan Books](https://www.panmacmillan.com/authors/peter-f-hamilton/the-dreaming-void/9781447279686)
 
 ## Overview[^1]
-What was formerly believed to be a supermassive black hole at the centre of the Milky Way is revealed to be an artificial construct, known as the Void. Inside, there is a strange universe where the laws of physics are very different from those we know, and it is slowly consuming the other stars of the galactic core until one day it will have devoured the entire galaxy. 
+
+What was formerly believed to be a supermassive black hole at the centre of the Milky Way is revealed to be an artificial construct, known as the Void. Inside, there is a strange universe where the laws of physics are very different from those we know, and it is slowly consuming the other stars of the galactic core until one day it will have devoured the entire galaxy.

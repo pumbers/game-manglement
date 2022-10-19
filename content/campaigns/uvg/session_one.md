@@ -1,9 +1,9 @@
 ---
 title: "Ultraviolet Grasslands: Session One, The Violet City"
 date: 2021-03-27
-thumbnail: "campaigns/uvg/session_one.jpg"
+thumbnail: "campaigns/uvg/session_one.png"
 categories: ["Role Playing Games"]
-tags: ["Cypher System","Ultraviolet Grasslands"]
+tags: ["Cypher System", "Ultraviolet Grasslands"]
 draft: false
 ---
 
@@ -13,12 +13,11 @@ _This first session of Ultraviolet Grasslands using Cypher System started off we
 
 <table>
 <tr style="background-color:transparent;border:none;">
-<td>{{% figure src="../aberama_gold.jpg" caption="Aberama Gold" %}}</td>
-<td>{{% figure src="../leo.jpg" caption="Leo" %}}</td>
-<td>{{% figure src="../pascale.jpg" caption="Pascale" %}}</td>
+<td>{{% figure src="../aberama_gold.png" caption="Aberama Gold" width="180" %}}</td>
+<td>{{% figure src="../leo.png" caption="Leo" width="180" %}}</td>
+<td>{{% figure src="../pascale.png" caption="Pascale" width="180" %}}</td>
 </tr>
 </table>
-
 
 **Aberama Gold** is a Violet City doghead inquisitor. He came to the Violet City some time ago by ship from across the Circle Sea and now works for the noble cats of the Violet Citadel (he knows the cats are the real lords). He wields the power of the Purple Goddess and hunts for doghead insurrectionists in and around the city. Aberama has spent some time out in the Purple Land of the Cat hunting his quarry, but he's recently heard portents of a deadly machine demon who might be able to overthrow his masters.
 
@@ -37,6 +36,8 @@ Deep within the rock lies a cathedral to the Oldtech gods, at its centre the bod
 "Initiate!" the figure shouts, gesturing with one hand in space as glowing circuits form in the air, and the machine responds with a pulse of energy that throws the figure off its feet, the Oldtech device dies with a whimper. The figure is motionless.
 
 Somewhere else in the grasslands, carved high on sapphire cliffs lies the **Face of the Blue God**. Startled, its eyes snap open.
+
+{{% figure src="../blue_god.png" %}}
 
 Aberama Gold wakes in a cold sweat.
 
@@ -62,8 +63,8 @@ Having no luck finding anything suitable from the piles of notes Leo had ripped 
 
 Leaving the Under-Dog Cafe, our Heroes head for Aberama's apartment through the covered market.
 
-{{% figure src="../covered_market.jpg" %}}
-![](./covered_market.jpg)
+{{% figure src="../covered_market.png" %}}
+![](./covered_market.png)
 
 They travel but a few tens of yards when a figure steps from behind a pillar, a tall woman dressed in leather and metal with strange glyphs tattooed on her face, and calls "Leo!", then as they stop "You'll never find it! Your old Master, Sire Lemtep was a fool to entrust the search to you!"
 
@@ -73,7 +74,7 @@ They travel but a few tens of yards when a figure steps from behind a pillar, a 
 
 From behind nearby boxes and pillars, four figures dressed in black leather and wearing ancient **biochemtech** masks step into the light and move menacingly forward.
 
-In the ensuing struggle, Aberama takes a pistol shot to the chest that staggers and bruises him, but the stoic inquisitor recovers enough to take down the woman in leather & metal and two of the thugs with his crossbow &  halberd.
+In the ensuing struggle, Aberama takes a pistol shot to the chest that staggers and bruises him, but the stoic inquisitor recovers enough to take down the woman in leather & metal and two of the thugs with his crossbow & halberd.
 
 Pascale momentarily confuses one with a simple "Hello, how can I help you?", which gives her time to raise her **Resonance Field** in defence and prepare her abacus' and **Onslaught** for battle. A combination of the two over the next few minutes are enough to lay that thug down.
 
@@ -81,21 +82,21 @@ Leo raises his **Ward** for defence and makes short work of the last thug with h
 
 Searching for clues to the identity of the woman in leather & metal, Aberama finds two **small metallic tetrahedra** with what looks like micro-circuitry engraved on three faces and strange markings on the fourth. He pockets the curiosities, having no idea what they are.
 
-{{% figure src="../oldtech_device_d4.jpg" width="30%" %}}
-![](./oldtech_device_d4.jpg)
+{{% figure src="../oldtech_device_d4.png" width="30%" %}}
+![](./oldtech_device_d4.png)
 
 Exhausted from the fight, our Heroes resume their journey to Aberama's apartment and well-deserved rest.
 
 ## Finding A Caravan
 
-The next day, after a long and depressingly unproductive search for a potential caravan to join, on a nearby notice board our Heroes see word of a caravan of six dwarves heading into the Grasslands, bound for Potsherd Crater to scout for caches of old tech for their recycling business. The caravan will use three mules and two guzzolene walkers.
+The next day, after a long and depressingly unproductive search for a potential caravan to join, on a nearby notice board our Heroes see word of a caravan of six dwarves heading into the Grasslands, bound for Potsherd Crater to scout for caches of old tech for their recycling business. The caravan will use three mules and two guzzolene wagons.
 
-Six dwarves, three mules, two walkers. 6-3-2. Pascale's eyes light up - the numbers from her abacus![^1]. This must be a sign.
+Six dwarves, three mules, two wagons. 6-3-2. Pascale's eyes light up - the numbers from her abacus![^1]. This must be a sign.
 
 Our Heroes head to the nearby industrial district where they find a workshop unit, a hand-painted sign with **Hog Enterprises** hanging over the roller-shutter door, and two dwarves hard at work within.
 
-{{% figure src="../dwarven_workshop.jpg" %}}
-![](./dwarven_workshop.jpg)
+{{% figure src="../dwarven_workshop.png" %}}
+![](./dwarven_workshop.png)
 
 "Not open yet!" the shorter dwarf hollers past the stogie stuck in his mouth.
 
@@ -109,8 +110,8 @@ A short time later, a bargain has been struck. Our Heroes (capital H) will sign 
 
 The larger of the two dwarves, who our Heroes now know to be **Nezod Smeltgut** spits in his palm and offers it to acknowledge the bargain.
 
-"It'll take us a few days to get the walkers ready; be back here before sunrise on the second day of Redmonth. Bring yer own chattels, no more than one sack - we ain't got space for anything more. We'll head out past the **Marut** to hallow the contract and be on our way to the 'lands well before noontime"
+"It'll take us a few days to get the wagons ready; be back here before sunrise on the second day of Redmonth. Bring yer own chattels, no more than one sack - we ain't got space for anything more. We'll head out past the **Marut** to hallow the contract and be on our way to the 'lands well before noontime"
 
 And with a bargain struck, our Heroes head off to plan for their adventure.
 
-[^1]: The dialog was more "Six dwarves, three mules, two walkers, Pascale."  "What?" "Six dwarves, three mules, two walkers." "Yeah, I know, I heard you." "Six, three and two." "OK, so?" "632" "Uh, OK?" "What number did your abacus say this morning?" "Six three t... OH!"
+[^1]: The dialog was more "Six dwarves, three mules, two wagons, Pascale." "What?" "Six dwarves, three mules, two wagons." "Yeah, I know, I heard you." "Six, three and two." "OK, so?" "632" "Uh, OK?" "What number did your abacus say this morning?" "Six three t... OH!"
