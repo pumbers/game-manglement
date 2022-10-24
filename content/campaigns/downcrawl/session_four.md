@@ -1,7 +1,7 @@
 ---
 title: "Downcrawl: Session Four"
 date: 2020-03-22
-thumbnail: "campaigns/downcrawl/cavern_wilderness.jpg"
+thumbnail: "campaigns/downcrawl/cavern_wilderness.png"
 categories: ["Role Playing Games"]
 tags: ["The Black Hack 2e","Downcrawl"]
 draft: false
@@ -13,7 +13,7 @@ _Swept away by the huge wave, Eirik and Sherman struggled to stay afloat for wha
 
 Stumbling around in the near-darkness, they soon came to a wall rising from the stone floor. Sherman climbed the wall to find it became rough rock after only a short climb and then started to incline backwards into an overhang which quickly became too dangerous to scale further. Dropping back to the floor, our explorers decided to avoid walking in circles in the darkness by following the wall to see where it lead.[^1]
 
-{{% figure src="../cavern_path.jpg" %}}
+{{% figure src="../cavern_path.png" %}}
 
 They walked on for hours; tired, thirsty and hungry. Neither of them had eaten for several Brights and they had only what was left of the flood that had almost killed them in their bellies for liquid sustenance. Stopping briefly to rest, Sherman managed to find some small, spongy mushrooms growing on the wall that helped slake their thirst, at least for a while.
 
@@ -23,7 +23,7 @@ Rested, they moved on down the road, still following the wall.
 
 Hours further on, they began to see light in the distance and soon came to the end of the road as it opened into a much larger, better lit tunnel. Leading off into the distance, the floor of the tunnel was a small stream with crystals of various sizes and colors lining it's bed.
 
-{{% figure src="../crystal_stream.jpg" %}}
+{{% figure src="../crystal_stream.png" %}}
 
 Once again hungry and exhausted from the previous bright's travel, our adventurers decided to spend some time camping and foraging. They now had a ready supply of drinkable water, so focused on finding any 'shrooms or fungi that would fill their bellies and scouting around for landmarks that might help them find their way.
 
@@ -35,7 +35,7 @@ Waking next Bright, it was apparent to Sherman that something was wrong. Eirik, 
 
 Setting off, it wasn't long before they came to a low ledge where the stream dripped down into a dark lake which extended off into the distance. With little idea of the depth of the water and no boat to traverse it, they were forced to backtrack and choose an alternate fork of the stream to follow for the next Bright. Eirik was frustrated by the fact that his boots, once well fitted and sturdy, were now more like a pair of waders on him, making even normal walking more difficult.
 
-{{% figure src="../dripping_shore.jpg" %}}
+{{% figure src="../dripping_shore.png" %}}
 
 The next few Brights they made little apparent progress. The papers from the Alchemist's Tower hinted at no recognizable landmarks they could follow, and they were forced to forage to keep up their food supplies.[^4]
 
@@ -47,7 +47,7 @@ Sure enough, pushing on through the caverns they came to a sight they had met be
 
 Home, at last!
 
-{{% figure src="../bone_falls_parchment.jpg" %}}
+{{% figure src="../bone_falls_2.png" %}}
 
 Sherman led the climb up the steep walls of the shaft, making it to the top easily while trailing his rope at each stage to ease Eirik's climb. Eirik, now almost an experienced climber, made it within reach of Sherman at the lowest platform of Bone Falls. Then, in a final push for the top, Eirik's hand slipped on a patch of wet rock and he hung in the air for a fraction of a second before dropping into the watery depths. 
 

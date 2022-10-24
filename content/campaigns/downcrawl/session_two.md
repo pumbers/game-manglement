@@ -1,7 +1,7 @@
 ---
 title: "Downcrawl: Session Two"
 date: 2020-01-12
-thumbnail: "campaigns/downcrawl/city_entrance.jpg"
+thumbnail: "campaigns/downcrawl/city_entrance.png"
 categories: ["Role Playing Games"]
 tags: ["The Black Hack 2e","Downcrawl"]
 draft: false
@@ -13,7 +13,7 @@ _When last we saw our heroes, they had just been hired by local "businessman" an
 
 Taking various steps, ladders and ropes to the top level of Bone falls, then making the long climb along narrow ledges and the steep rock faces took some time but several hours later our bold adventurers had made their way past the lower catacombs and up to the City of the Dead. Wandering around the streets, they saw homes and stores abandoned and decaying for decades, possibly centuries, all covered with and embedded in the Flowstone found throughout the Deep Down, everything given a dull, sickly grey/blue cast by the ubiquitous Fuzz mould.
 
-{{% figure src="../city_street.jpg" %}}
+{{% figure src="../city_street.png" %}}
 
 Soon, they came to a town square, surround on all four sides by tall buildings, their tops embedded firmly into flowstone and the roof of the cavern. The centre of the square was lowered to form a large, shallow pool filled with greasy foul-smelling water with a layer of mud settled into the bottom. In the centre of the pool stood the decaying trunk of a large, old, dead tree. The buildings around the square showed clearly that a great fire of some kind had taken place, their fronts and the floor of the town square burned, pitted and sooted from the heat.
 
@@ -35,7 +35,7 @@ Eirik lifted Sherman to his feet and, as the worms began to flop and wriggle the
 
 Agreeing to press on despite their wounds, it wasn't long before they came to the edge of the city and the tower.
 
-{{% figure src="../tower.jpg" %}}
+{{% figure src="../tower.png" %}}
 
 Like everything else, the tower looked abandoned for centuries and was surrounded and cocooned by the cavern walls and waves of flowstone, but otherwise looked intact.
 
@@ -45,7 +45,7 @@ A ruined storeroom was on the next floor. Wooden shelving and cupboards left lit
 
 Their nerves already on edge from the sights they had witnessed so far, the next floor was no respite. Here was clearly where the abominations they had already found took shape. Laboratory tables in the centre of the floor were flanked around the walls by what were once large glass cylinders, their now shattered remains littering the floor. The metal casing for the bottom of each cylinder rested on the floor while what was once its top hung from the floor above, attached there by a pipes disappearing upwards through the ceiling. Inside each cylinder was the barely discernible corpse of a humanoid creature, crusted in a dried metallic green sludge.
 
-{{% figure src="../laboratory.jpg" %}}
+{{% figure src="../laboratory.png" %}}
 
 Moving quickly to the next floor, in the hopes of quickly finding their objective, the strangeness continued. Here were more glass cylinders, one for each of and apparently above the ones below. All but one of these cylinders was also shattered, the floor covered with the metallic green sludge that covered the corpses below. One cylinder remained intact, inside it a strange metallic green liquid swirled around the cylinder at speed with no apparent force driving it.
 
@@ -61,7 +61,7 @@ While dodging the mage corpse's attacks, staggered by their ferocity, Eirik took
 
 With their foes seemingly defeated, Eirik and Sherman took some time to check their wounds, staunching and binding the gashes on Sherman's neck and successfully stopping the bleeding for now. But, as they finished their ministrations, Eirik noticed to his horror that the remaining pieces of the fighter had started to move again. The metallic green sludge was moving across the floor, still alive, grabbing and pulling the disconnected body parts towards one another and knitting them once again into a full corpse.
 
-{{% figure src="../zombies_lots.jpg" %}}
+{{% figure src="../zombies_lots.png" %}}
 
 Given that they had accomplished their task as far as they were able, they swiftly decided they had seen enough of this city of the dead and made their way with haste back to the tower entrance. But, as they made it to the large doorway, they again froze in terror - the street outside was filled with dozens of figures, all moving slowly, jerkily, twitching as if in continual excruciating death throes towards the tower, their eyes glowing that same dull green they had seen above!
 

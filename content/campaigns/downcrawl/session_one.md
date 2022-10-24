@@ -31,6 +31,9 @@ Following Athild's directions, the party made their way to the upper levels - me
 Rested and recovered, their armor repaired and their wits together, the next day the party headed out looking for a way to earn more keys… and possibly some food. On the way, they found out that traveling down was easier, if a little more painful, than traveling up and resolved to use the elevators whenever they could afford to.
 
 Dropping by Dangles, a bar where all the chairs and tables are suspended by chains from a cantilevered platform above the abyss, Erik and Celiophane decided they would look for work elsewhere (“Fuck that!”, said Eirik) while Sherman braved the lack of a floor.
+
+{{% figure src="../bone_falls_dangles.png" %}}
+
 Both groups found out that the type of work they were looking for was exactly the work a being called Gwindore paid well for. They made their way to Gwindore’s “mansion”. Gwindore, it turned out, was a stunningly good looking Elf dressed head to toe in fine clothing made from yellow canary feathers, a glow emanating from his mouth as he spoke.
 
 Several days ago, Gwindore sponsored - at considerable cost - a team of adventurers heading into the catacombs far above Bone Falls but they had so far failed to reappear. Gwindore was willing to pay the party to go into the catacombs and retrieve the earlier adventurers along with any loot they’d found: 10 keys for each of the party with another 5 keys per adventurer found alive.

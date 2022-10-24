@@ -1,7 +1,7 @@
 ---
 title: "Downcrawl: Session Three"
 date: 2020-02-16
-thumbnail: "campaigns/downcrawl/undercity.jpg"
+thumbnail: "campaigns/downcrawl/undercity.png"
 categories: ["Role Playing Games"]
 tags: ["The Black Hack 2e","Downcrawl"]
 draft: false
@@ -21,7 +21,7 @@ Sherman swiftly slammed the door shut and threw the bolts. Spying a wooden bar s
 
 Back on the ground floor, Eirik had piled every piece of furniture he could find up against the door. There was no way they were getting through that, he thought. But while moving the furniture he had found a manhole cover in the floor and, prying it up with a large poker he found nearby, stared down into a dark, dank chamber beneath the tower. Just then, as Eirik looked around expecting to see Sherman come back down the stairs he caught a glimpse of blood-stained, decaying clothing on the three figures coming down the stairs. Without hesitation, Eirik jumped into the hole. From the septic room, he made his down again into the sewers underneath the city and moved off in a direction he figured was towards the way they'd entered the city. Sherman would just have to catch up.
 
-{{% figure src="../sewer.jpg" %}}
+{{% figure src="../sewer.png" %}}
 
 At the top of the tower, Sherman made his way up into a loft, then through a window out on to a narrow ledge. Looking down he saw crowds of green-eyed figures in disarray milling around the base of the tower and up and down surrounding streets. It was a long climb down the rough stone walls to some nearby buildings, but with the tower surrounded by these creatures it was his only way out. Sherman started the climb down but the tower was in worse condition than he thought and after only a few minutes climbing a piece of stonework came loose under his hand. Flailing for a grip, Sherman's fingers brushed past a narrow sill; failing to find purchase he fell backward into darkness.
 
@@ -33,13 +33,13 @@ Eirik meanwhile, was on the run again. It didn't seem to matter which way he wen
 
 Looking at each other, then at the crowds of undead behind each of them there seemed no escape, no doorways or windows in the buildings to either side. Then, Sherman spotted a small hole in the base of a wall. "Hole?", said Sherman. Glancing over, Eirik nodded, "Hole", and they both dived through. 
 
-{{% figure src="../pump_room.jpg" %}}
+{{% figure src="../pump_room.png" %}}
 
 Falling through the hole in the brick wall, they found themselves in a huge open hall, unfamiliar and complex looking machinery all around. Quickly running across the hallway towards a ladder on the far wall, they climbed up to an overlooking gangway and balcony, then waited, watching the hole intently for glowing green eyes. None came for several minutes, so our adventurers decided to rest a while and recover their wits.
 
 After some time resting and recounting tales of their adventures, sharing some liquor Sherman had in a small flask, they felt much better and, after investigating some abandoned rooms off the balcony, decided to move on. Spying another manhole cover in the floor of the cavernous hall, they figured staying out of sight of the undead by moving beneath the city streets was a better plan than trying to fight their way through, and they headed off back into the sewers and the undercity.
 
-{{% figure src="../well_steps.jpg" %}}
+{{% figure src="../well_steps.png" %}}
 
 After a brief but tense fight with some Spiderlings blocking the corridor with their webs, the pair were stopped in their tracks by a deep, square shaft at a four-way intersection of streets. Narrow ledges worked their way around the shaft while hundreds of steps around the edges led down into the darkness. A dropped stone put the depth at a few hundred feet before hitting water - a well, perhaps? They both made it along the ledges to the other side but soon found their way blocked again, this time by a cave-in and some suspiciously deep water.
 
@@ -59,7 +59,7 @@ The thing tightened it's hold on Sherman, literally squeezing the life from him 
 
 A dagger thrust and cuts from Sherman, Eirik pounding the head with the butt of the torch, and the thing started to loosen it's grip. Then with a bone-chilling screech let Sherman free completely and fell back into the water. Sherman looked around for his torch but it was gone, lost in the struggle. Down to their last torch, they continued on.
 
-{{% figure src="../flood_chamber.jpg" %}}
+{{% figure src="../flood_chamber.png" %}}
 
 Soon, forming out of the darkness, just on the edge of the torchlight, they could make out dozens of gigantic columns, each perhaps 50-60 feet across, arranged in rows a couple of hundred feet or so apart, heading off into the darkness and up towards an unseen roof. What was this place? An old Dwarven mine perhaps? Checking the torch to see if they could tell which direction a slight breeze was coming from, they headed off again.
 

@@ -4,6 +4,8 @@ theme = "robust-custom"
 publishDir = "docs"
 baseUrl = "https://pumbers.github.io/game-manglement/"
 
+ignoreFiles = ['^.*\/_.*\.md$']
+
 [params]
   description = "Thoughts and stuff for tabletop gaming"
   dateformat = "Jan 2, 2006" # Optional
