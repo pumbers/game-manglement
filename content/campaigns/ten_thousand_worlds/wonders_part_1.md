@@ -1,7 +1,7 @@
 ---
 title: "Mysteries, Wonders and Dangers of The Ten Thousand Worlds: Part 1"
 date: 2019-01-14
-thumbnail: "campaigns/ten_thousand_worlds/hela_station.jpg"
+thumbnail: "campaigns/ten_thousand_worlds/braecia_orbit.png"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
 draft: false
@@ -32,6 +32,8 @@ The legends of the Vylk, as recorded in the Testament of Cycles, read that in an
 After enumerable battles and the destruction of many worlds (maybe even some of the original planets) Ginmoch was defeated and, while it could not be destroyed, it was frozen forever in time inside an asteroid... waiting. 
 
 ## The Scarlet Cells
+
+{{% figure src="../scarlet_cells.png" %}}
 
 Scattered throughout the Kest Belt are tens, possibly hundreds of thousands of asteroids - none more than a few kilometers across - that show as radio anomalies on ship sensors. Each one of them contains vaults, protected by doorways, mechanisms, traps and mazes, with treasures undreamed of... or perhaps nothing.
 The Cells move, along with everything else in the Belt, drifting aimlessly, caroming off one another occasionally.

@@ -1,7 +1,7 @@
 ---
 title: "Mysteries, Wonders and Dangers of The Ten Thousand Worlds: Part 2"
 date: 2020-05-10
-thumbnail: "campaigns/ten_thousand_worlds/red_moon.jpg"
+thumbnail: "campaigns/ten_thousand_worlds/red_moon.png"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
 draft: false
@@ -15,11 +15,11 @@ _Welcome to the Ten Thousand Worlds._
 
 {{% figure src="../vylk_enclave.png" %}}
 
-The **Vylk** are the only (known) alien race in the Ten Thousand Worlds, and the **Vylk Enclave** is a marvel of megastructure engineering. By far the largest of the Worlds, and likely one of the oldest, it sits on the outer edge of the system far above the plane of the ecliptic. A Dyson Sphere, built around an artificial sun, orbited by a Ringworld. The Vylk  are thought to live on or in the Dyson Sphere while the Ringworld is home to scattered human settlements, acting as agents for the Vylk engaged in a brisk trade in their technology. 
+The **Vylk** are the only (known) alien race in the Ten Thousand Worlds, and the **Vylk Enclave** is a marvel of megastructure engineering. By far the largest of the Worlds, and likely one of the oldest, it sits on the outer edge of the system far above the plane of the ecliptic. 
 
-The engineering makes little sense to anyone. The ring is too thin and rotates too quickly to survive under the estimated stress, the gravitational and structural stresses on the sphere are way above what would be considered normal engineering tolerances, and yet the whole system survives and appears to be extremely resilient. The Vylk, meanwhile, say nothing. 
+This artificial planet is a wonder of megastructure technology well beyond human achievement. Humans acting as Vylk liaisons or agents live on the surface, which maintains a comfortable 0.85 gravity and human-compatible atmosphere and has several constructs (nominally cities) where humans can live. The vast majority of the Enclave, the part below the immediate surface, has never been seen or explored by humans, and although it is not known for sure it is highly likely the Vylk would never allow such exploration anyway.
 
-No one has ever seen a Vylk. Not really. They communicate with others very occasionally, via radio, visual and hologram when they always appear as an “odd” human; likely a form of digital construct. In person they are represented either by artificial life forms (advanced Bots) or human agents. 
+No one has ever seen a Vylk. Not really. They communicate with others very occasionally, via radio, visual and hologram when they always appear as an “odd looking” human; likely a form of digital construct. In person they are represented either by artificial life forms (advanced Bots) or human agents. 
 
 Within the Worlds they are known for one thing: advanced technology, which they hand out - for free or in trade - apparently randomly to anyone who asks for it. They offer no explanation of why they fulfill some requests and not others, or why they often ask for nothing material in return; although they may occasionally ask for a favour or two. Go to the Vylk, ask them for something and they may or may not give it to you with no explanation either way. 
 
@@ -55,7 +55,7 @@ The largest ship in the fleet has now become one of the main agricultural hubs o
 
 ## Ignis Colony
 
-{{% figure src="../ignis.jpg" width="100%" %}}
+{{% figure src="../ignis.png" width="100%" %}}
 
 A new World, Ignis was constructed in the peace between the **Treaty of the True King** and the **Retaliation of the Tainted**. During that uprising, Ignis fell into the hands of the **Artificers Guild** who converted it into a massive shipyard which profited greatly from the program of rebuilding in the **Era of Spoils** that followed.
 
