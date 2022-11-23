@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Image Generation on Game Manglement</title>
+    <link>https://pumbers.github.io/game-manglement/categories/ai-image-generation/</link>
+    <description>Recent content in AI Image Generation on Game Manglement</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pumbers.github.io/game-manglement/categories/ai-image-generation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stable Diffusion Art Gallery</title>
+      <link>https://pumbers.github.io/game-manglement/gallery/gallery/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/gallery/gallery/</guid>
+      <description>Stable Diffusion is one of the best AI Art Generator programs out there today, and best of all: it&amp;rsquo;s free. All the images shown here were generated on a Windows 11 laptop with a 6Gb Nvidia 3070 graphics card using the NMKD desktop SD app. The variations were achieved by downloading various models/styles from Hugging Face.</description>
+    </item>
+    
+  </channel>
+</rss>

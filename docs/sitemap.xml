@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pumbers.github.io/game-manglement/categories/</loc>
-    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <loc>https://pumbers.github.io/game-manglement/tags/ai/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pumbers.github.io/game-manglement/posts/dune_rpg_review/</loc>
-    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <loc>https://pumbers.github.io/game-manglement/categories/ai-image-generation/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/tags/art/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/categories/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/gallery/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pumbers.github.io/game-manglement/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/tags/stable-diffusion/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/gallery/gallery/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/tags/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/posts/dune_rpg_review/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/modiphius/</loc>
@@ -21,9 +42,6 @@
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pumbers.github.io/game-manglement/categories/role-playing-games/</loc>
-    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pumbers.github.io/game-manglement/tags/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/</loc>
