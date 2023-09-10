@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pumbers.github.io/game-manglement/campaigns/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/categories/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/categories/role-playing-games/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/tags/shadowdark/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/campaigns/shadowdark/session_two/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/tags/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pumbers.github.io/game-manglement/campaigns/shadowdark/session_one/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/ai/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,22 +35,13 @@
     <loc>https://pumbers.github.io/game-manglement/tags/art/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pumbers.github.io/game-manglement/categories/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pumbers.github.io/game-manglement/gallery/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pumbers.github.io/game-manglement/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/stable-diffusion/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pumbers.github.io/game-manglement/gallery/gallery/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pumbers.github.io/game-manglement/tags/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pumbers.github.io/game-manglement/posts/dune_rpg_review/</loc>
@@ -40,12 +55,6 @@
   </url><url>
     <loc>https://pumbers.github.io/game-manglement/categories/reviews/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pumbers.github.io/game-manglement/categories/role-playing-games/</loc>
-    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pumbers.github.io/game-manglement/campaigns/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/cypher-system/</loc>
     <lastmod>2021-04-10T00:00:00+00:00</lastmod>
@@ -101,15 +110,6 @@
     <loc>https://pumbers.github.io/game-manglement/tags/virtual-tabletop/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pumbers.github.io/game-manglement/tags/monte-cook-games/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/wonders_part_2/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pumbers.github.io/game-manglement/tags/ten-thousand-worlds/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pumbers.github.io/game-manglement/tags/kickstarter/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -128,12 +128,6 @@
     <loc>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_three/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/adept/</loc>
-    <lastmod>2020-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/dynast/</loc>
-    <lastmod>2020-01-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_two/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -148,12 +142,6 @@
   </url><url>
     <loc>https://pumbers.github.io/game-manglement/articles/sta_sar/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/wonders_part_1/</loc>
-    <lastmod>2019-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pumbers.github.io/game-manglement/campaigns/ten_thousand_worlds/introduction/</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pumbers.github.io/game-manglement/articles/sta_fighters/</loc>
     <lastmod>2018-11-03T00:00:00+00:00</lastmod>

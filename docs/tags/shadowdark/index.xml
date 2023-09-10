@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shadowdark on Game Manglement</title>
+    <link>https://pumbers.github.io/game-manglement/tags/shadowdark/</link>
+    <description>Recent content in Shadowdark on Game Manglement</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pumbers.github.io/game-manglement/tags/shadowdark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shadowdark: Session Two, The Eye of the Lost</title>
+      <link>https://pumbers.github.io/game-manglement/campaigns/shadowdark/session_two/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/campaigns/shadowdark/session_two/</guid>
+      <description>There were nine gods; that much is certain. But a void in the common knowledge burns brighter the more scholars study it. The fact is that two gods are lost to the ages. Their names purged from all ancestries’ memories. Their imagery vandalized, destroyed, or stolen. And yet, some texts from eons ago still mention these gods; though never by name. Not men, nor elves, nor dragons can make sense of this lack of information.</description>
+    </item>
+    
+    <item>
+      <title>Shadowdark: Session One, The Eye of the Lost</title>
+      <link>https://pumbers.github.io/game-manglement/campaigns/shadowdark/session_one/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pumbers.github.io/game-manglement/campaigns/shadowdark/session_one/</guid>
+      <description>There were nine gods; that much is certain. But a void in the common knowledge burns brighter the more scholars study it. The fact is that two gods are lost to the ages. Their names purged from all ancestries’ memories. Their imagery vandalized, destroyed, or stolen. And yet, some texts from eons ago still mention these gods; though never by name. Not men, nor elves, nor dragons can make sense of this lack of information.</description>
+    </item>
+    
+  </channel>
+</rss>
