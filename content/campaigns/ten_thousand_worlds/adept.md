@@ -1,17 +1,20 @@
 ---
 title: "Ten Thousand Worlds: Adepts"
 date: 2020-01-18
-thumbnail: "campaigns/ten_thousand_worlds/adept.png"
+thumbnail: "campaigns/ten_thousand_worlds/adept_01.png"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
-draft: false
+draft: true
 ---
 
 _Cybernetics in the Worlds are pretty common, used to replace damaged or missing limbs or other organs. Adepts, however, take the use of cybernetics and implanted technologies to the next level. Their implants are always far more advanced than anything freely available, sometimes even alien in origin, and they have used this to build an air of mysticism around what they are capable of, referring to the effects they create as “hexes” or “incantations”._
 
-_This article was originally posted on 18th January 2019 but has been updated for compatibility with the Cypher System Revised Rulebook released in September 2019._
+{{% figure src="../adept_02.png" %}}
 
-{{% figure src="../female_adept.jpg" caption="Character design by Pascal de Jong" link="https://www.artstation.com/pascalsart" %}}
+{{% figure src="../adept_03.png" %}}
+
+{{% figure src="../adept_04.png" %}}
+<!--
 
 ## Cypher System
 
@@ -54,3 +57,5 @@ Cyphers and Artifacts in the Worlds take the same form as in **Numenera**, they 
 ### Background
 
 In addition to any background hints derived from the character descriptor, type, focus or abilities, the GM should work with the Player to decide where the Adept lies in Worlds society. It's likely they will have been apprenticed to a master or affiliated with a guild or chapter at some point early in their career. Those contacts may be available to the character or even directing their actions, or the character may now be freelancing and acting counter to guild lore. Their implants will have come from somewhere and may require regular maintenance or upgrades; contacts there would be appropriate.
+
+-->

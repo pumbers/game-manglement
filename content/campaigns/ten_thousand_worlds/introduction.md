@@ -4,7 +4,7 @@ date: 2019-01-07
 thumbnail: "campaigns/ten_thousand_worlds/introduction.jpg"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
-draft: false
+draft: true
 ---
 
 _The Ten Thousand Worlds is a (work-in-progress) futuristic science fantasy setting. If you want to get a feel for life in the Worlds, think Firefly, a bit of Guardians of the Galaxy, some Doctor Who and Farscape and a fair bit of The Expanse._
@@ -15,7 +15,7 @@ Somewhere, in a star system light years away and a long time ago, Earth died.
 
 The Human Race, knowing the end was coming, migrated en masse to a new home. This home. We inherited a ruined system, full of ancient derelict habitats, hollowed-out asteroids and the remnants of planets that had long been used up as construction material. Other races have made their home here over millennia, all now as dead as the worlds they once settled. But they left behind remnants of their lives for us to explore, and sometimes profit from.
 
-Old worlds were colonized. New worlds created: utopias, dystopias, empires, alliances and more. And there are mysteries out there: ancient megastructures, derelict ships and stations left over from enumerable wars, and troves full of treasure long forgotten.
+Old worlds were colonized. New worlds created: utopias, dystopias, empires, alliances and more. And there are mysteries out there: ancient megastructures, derelict ships and stations left over from enumerable wars, and caches full of treasure long forgotten.
 
 All you have to do is survive it.
 
@@ -53,7 +53,7 @@ None are to be trusted.
 
 ### The Monger Clans
 
-From the outset, free trade between newly established colonies was critical. What one colony did not have could destroy them when they could be saved by what another colony produced.
+From the outset, free trade between newly established colonies was critical. What one colony did not have could destroy them when they could be saved by what another colony produced in excess.
 
 Initially, trade was controlled and protected by the Dynasties and the colonies themselves but as life spread throughout the Worlds centralised control became difficult and inefficient. So, the Monger Clans evolved. These “lesser” families and alliances focused on trade, never owning or managing any colonies, concentrating instead on the movement of trade goods – and money – throughout the system.
 

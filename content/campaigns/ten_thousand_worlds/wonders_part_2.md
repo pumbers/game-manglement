@@ -4,7 +4,7 @@ date: 2020-05-10
 thumbnail: "campaigns/ten_thousand_worlds/red_moon.jpg"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
-draft: false
+draft: true
 ---
 
 _There are many mysteries, wonders and dangers in the **Ten Thousand Worlds**, some of them are worth a lot of money to those brave enough to investigate them. Most of them will kill you stone dead._

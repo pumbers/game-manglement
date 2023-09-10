@@ -1,7 +1,7 @@
 ---
-title: "Ten Thousand Worlds: Mongers"
+title: "Ten Thousand Worlds: Guildsmen"
 date: 2020-01-18
-thumbnail: "campaigns/ten_thousand_worlds/monger_01.png"
+thumbnail: "campaigns/ten_thousand_worlds/guildsmen_01.png"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
 draft: true
@@ -9,9 +9,9 @@ draft: true
 
 _‌_
 
-{{% figure src="../monger_02.png" %}}
+{{% figure src="../guildsmen_02.png" %}}
 
-{{% figure src="../monger_03.png" %}}
+{{% figure src="../guildsmen_03.png" %}}
 
 <!--
 

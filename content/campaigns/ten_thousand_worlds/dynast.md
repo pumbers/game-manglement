@@ -1,10 +1,10 @@
 ---
 title: "Ten Thousand Worlds: Dynasts"
 date: 2020-01-18
-thumbnail: "campaigns/ten_thousand_worlds/dynasts.jpg"
+thumbnail: "campaigns/ten_thousand_worlds/dynast_01.png"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
-draft: false
+draft: true
 ---
 
 _Soon after the **Influx**, the Captains of the great colony ships and the first stations established themselves as absolute rulers of their domains. Power was passed down through their family lines and those of their subordinates, and over the centuries they built great trading empires, fleets and Worlds._
@@ -21,6 +21,11 @@ Centuries of conflict and intrigue has left few of the major houses intact along
 
 None are to be trusted.
 
+{{% figure src="../dynast_02.png" %}}
+
+{{% figure src="../dynast_03.png" %}}
+
+<!--
 ### Character Type
 
 Since being a Dynast is more about background than profession, almost any character type from the core rulebook can be used. **Warriors** may be the warlords or generals leading their fleets and armies against other dynasties, or knights protecting their family's territory; **Explorers** and **Adepts** are likely to be outcasts as their inclinations tend to take them beyond known space or outside of polite society, but they will still have their family's interests in mind.
@@ -57,3 +62,5 @@ Would Rather Be Reading
 ### Background
 
 In addition to any background hints derived from the character descriptor, type, focus or abilities, the GM should work with the Player to decide where the Dynast lies in society. They may be a member of one of the great houses, such as Braecia or Vogary (although their access to overwhelming power and technology should be limited), or they may be a member of one of the minor houses constantly vying for support from their peers and rivals.
+
+-->

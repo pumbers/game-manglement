@@ -4,7 +4,7 @@ date: 2019-01-14
 thumbnail: "campaigns/ten_thousand_worlds/hela_station.jpg"
 categories: ["Role Playing Games"]
 tags: ["Cypher System", "Monte Cook Games", "Ten Thousand Worlds"]
-draft: false
+draft: true
 ---
 
 _There are many mysteries, wonders and dangers in the ***Ten Thousand Worlds***, some of them are worth a lot of money to those brave enough to investigate them. Most of them will kill you stone dead._
@@ -13,9 +13,9 @@ _Welcome to the Ten Thousand Worlds._
 
 ## The Testament of Cycles
 
-The Testament of Cycles is, looking at at it simplistically, a book - but quite unlike any other book in existence. Firstly, it is not a physical object (although physical copies of parts of it have been made). It is data - data distributed across hundreds of thousands of exotic storage media maintained by hundreds of races across millennia of time. It is a history of the Worlds from its earliest days to the present. It is incomplete, detailed, apocryphal and huge. It can be accessed from most computer networks, although the content and search capabilities will vary greatly.
+The Testament of Cycles is, looking at it simplistically, a book - but quite unlike any other book in existence. Firstly, it is not a physical object (although physical copies of parts of it have been made). It is data - data distributed across hundreds of thousands of exotic storage media maintained by hundreds of races across millennia of time. It is a history of the Worlds from its earliest days to the present. It is incomplete, detailed, apocryphal and huge. It can be accessed from most computer networks, although the content and search capabilities will vary greatly.
 
-The Testament is spread across computer systems and storage media all over the Worlds, with portions of it copied and the whole being added to all the time. There is speculation that many computer systems and individuals feed into the The Teastament to keep it up to date, and certainly it can be accessed from any number of systems. Ships will, as a matter of course, synchronize their copy of the Teatament with a colony’s while docked. 
+The Testament is spread across computer systems and storage media all over the Worlds, with portions of it copied and the whole being added to all the time. Many computer systems and individuals feed into the The Teastament to keep it up to date, and certainly it can be accessed from any number of systems. Ships will, as a matter of course, synchronize their copy of the Teatament with a colony’s while docked. 
 
 There is also speculation that it is maintained by Ibiox, since that entity is in the habit of gathering massive amounts of information for no apparent reason. 
 
@@ -44,9 +44,9 @@ Why are they called the Scarlet Cells? What else would you call a place so drenc
 
 ## The Vault of the Perished Priest
 
-There is a rumor, centuries old, of a Priest of the order of The Grey - servants of the Grey King - who, before the King fell, gathered together the remains of that order along with ships, tech and treasure and fled to the farthest reaches of the system, there living their lives in isolation and safety before passing beyond the dark.
+There is a rumor, centuries old, of a Priest of the order of The Grey - servants of the Grey King, one of the Lords of the Third Cycle - who, before the King fell, gathered together the remains of that order along with ships, tech and treasure and fled to the farthest reaches of the system, there living their lives in isolation and safety before passing beyond the dark.
 
-There is also a rumor that, somewhere out there, their world still exists and contains one of the largest troves in the Worlds. Some folks talk about it, fewer know more than scant details and a few, a very few say they know where it is or have seen it. No one who has been inside has anything to say 'cos those folks don't come back.
+There is also a rumor that, somewhere out there, their world still exists and contains one of the largest caches in all the Worlds. Some folks talk about it, fewer know more than scant details and a few, a very few say they know where it is or have seen it. No one who has been inside has anything to say 'cos those folks don't come back.
 
 Search the Testament of Cycles and you'll find bits and pieces. Stories. Maybe even some maps or drawings. Now try to piece them all together and you'll see why so few claim to have been there.
 
