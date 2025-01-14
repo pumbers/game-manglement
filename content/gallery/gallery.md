@@ -6,7 +6,7 @@ categories: ["AI Image Generation"]
 tags: ["AI","Stable Diffusion", "Art"]
 ---
 
-_Stable Diffusion is one of the best AI Art Generator programs out there today, and best of all: it's free. All the images shown here were generated on a Windows 11 laptop with a 6Gb Nvidia 3070 graphics card using the [NMKD desktop SD app](https://nmkd.itch.io/t2i-gui). The variations were achieved by downloading various models/styles from [Hugging Face](https://huggingface.co/)._
+_Stable Diffusion is one of the best AI Art Generator programs out there today, and best of all: it's free. All the images shown here were generated on a Windows 11 laptop with a 6Gb Nvidia 3070 graphics card using the NMKD desktop SD app. The variations were achieved by downloading various models/styles from Hugging Face._
 
 <style>
 .angry-grid {
