@@ -4,185 +4,142 @@
     <title>Game Manglement</title>
     <link>https://pumbers.github.io/game-manglement/</link>
     <description>Recent content on Game Manglement</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pumbers.github.io/game-manglement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pumbers.github.io/game-manglement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shadowdark: Session Two, The Eye of the Lost</title>
       <link>https://pumbers.github.io/game-manglement/campaigns/shadowdark/session_two/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/campaigns/shadowdark/session_two/</guid>
-      <description>There were nine gods; that much is certain. But a void in the common knowledge burns brighter the more scholars study it. The fact is that two gods are lost to the ages. Their names purged from all ancestries’ memories. Their imagery vandalized, destroyed, or stolen. And yet, some texts from eons ago still mention these gods; though never by name. Not men, nor elves, nor dragons can make sense of this lack of information.</description>
+      <description>&lt;p&gt;&lt;em&gt;There were nine gods; that much is certain. But a void in the common knowledge burns brighter the more scholars study it. The fact is that two gods are lost to the ages. Their names purged from all ancestries’ memories. Their imagery vandalized, destroyed, or stolen. And yet, some texts from eons ago still mention these gods; though never by name. Not men, nor elves, nor dragons can make sense of this lack of information. Why were these gods purged from existence? Is this a punishment? Will they ever be known again? Scholars have wondered about those questions for centuries. Still, they hope that a new text, relic, or ancient location shall soon be unearthed and that it may hold the key to understanding the forgone past.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Shadowdark: Session One, The Eye of the Lost</title>
       <link>https://pumbers.github.io/game-manglement/campaigns/shadowdark/session_one/</link>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/campaigns/shadowdark/session_one/</guid>
-      <description>There were nine gods; that much is certain. But a void in the common knowledge burns brighter the more scholars study it. The fact is that two gods are lost to the ages. Their names purged from all ancestries’ memories. Their imagery vandalized, destroyed, or stolen. And yet, some texts from eons ago still mention these gods; though never by name. Not men, nor elves, nor dragons can make sense of this lack of information.</description>
+      <description>&lt;p&gt;&lt;em&gt;There were nine gods; that much is certain. But a void in the common knowledge burns brighter the more scholars study it. The fact is that two gods are lost to the ages. Their names purged from all ancestries’ memories. Their imagery vandalized, destroyed, or stolen. And yet, some texts from eons ago still mention these gods; though never by name. Not men, nor elves, nor dragons can make sense of this lack of information. Why were these gods purged from existence? Is this a punishment? Will they ever be known again? Scholars have wondered about those questions for centuries. Still, they hope that a new text, relic, or ancient location shall soon be unearthed and that it may hold the key to understanding the forgone past.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Stable Diffusion Art Gallery</title>
       <link>https://pumbers.github.io/game-manglement/gallery/gallery/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/gallery/gallery/</guid>
-      <description>Stable Diffusion is one of the best AI Art Generator programs out there today, and best of all: it&amp;rsquo;s free. All the images shown here were generated on a Windows 11 laptop with a 6Gb Nvidia 3070 graphics card using the NMKD desktop SD app. The variations were achieved by downloading various models/styles from Hugging Face.</description>
+      <description>&lt;p&gt;&lt;em&gt;Stable Diffusion is one of the best AI Art Generator programs out there today, and best of all: it&amp;rsquo;s free. All the images shown here were generated on a Windows 11 laptop with a 6Gb Nvidia 3070 graphics card using the NMKD desktop SD app. The variations were achieved by downloading various models/styles from Hugging Face.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;style&gt;&#xA;.angry-grid {&#xA;   display: grid; &#xA;&#xA;   grid-template-rows: 1fr 1fr 1fr 1fr;&#xA;   grid-template-columns: 1fr 1fr 1fr 1fr;&#xA;   &#xA;   gap: 0px;&#xA;}&#xA;  &#xA;#item-0 {&#xA;&#xA;   background-color: #386641; &#xA;   grid-row-start: 1;&#xA;   grid-column-start: 1;&#xA;&#xA;   grid-row-end: 2;&#xA;   grid-column-end: 3;&#xA;   &#xA;}&#xA;#item-1 {&#xA;&#xA;   background-color: #a7c957; &#xA;   grid-row-start: 2;&#xA;   grid-column-start: 2;&#xA;&#xA;   grid-row-end: 4;&#xA;   grid-column-end: 4;&#xA;   &#xA;}&#xA;#item-2 {&#xA;&#xA;   background-color: #6a994e; &#xA;   grid-row-start: 1;&#xA;   grid-column-start: 3;&#xA;&#xA;   grid-row-end: 2;&#xA;   grid-column-end: 4;&#xA;   &#xA;}&#xA;#item-3 {&#xA;&#xA;   background-color: #386641; &#xA;   grid-row-start: 1;&#xA;   grid-column-start: 4;&#xA;&#xA;   grid-row-end: 3;&#xA;   grid-column-end: 5;&#xA;   &#xA;}&#xA;#item-4 {&#xA;&#xA;   background-color: #386641; &#xA;   grid-row-start: 3;&#xA;   grid-column-start: 1;&#xA;&#xA;   grid-row-end: 5;&#xA;   grid-column-end: 2;&#xA;   &#xA;}&#xA;#item-5 {&#xA;&#xA;   background-color: #6a994e; &#xA;   grid-row-start: 3;&#xA;   grid-column-start: 4;&#xA;&#xA;   grid-row-end: 4;&#xA;   grid-column-end: 5;&#xA;   &#xA;}&#xA;#item-6 {&#xA;&#xA;   background-color: #386641; &#xA;   grid-row-start: 4;&#xA;   grid-column-start: 3;&#xA;&#xA;   grid-row-end: 5;&#xA;   grid-column-end: 5;&#xA;   &#xA;}&#xA;#item-7 {&#xA;&#xA;   background-color: #6a994e; &#xA;   grid-row-start: 4;&#xA;   grid-column-start: 2;&#xA;&#xA;   grid-row-end: 5;&#xA;   grid-column-end: 3;&#xA;   &#xA;}&#xA;#item-8 {&#xA;&#xA;   background-color: #6a994e; &#xA;   grid-row-start: 2;&#xA;   grid-column-start: 1;&#xA;&#xA;   grid-row-end: 3;&#xA;   grid-column-end: 2;&#xA;   &#xA;}&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;angry-grid&#34;&gt;&#xA;  &lt;div id=&#34;item-0&#34;&gt;&lt;img src=&#34;../midjourney/2022-11-21-19-41-18-01-midjourney_style_gothic_city_in_a_forest_dramatic_volumetric_lighting-707382207-scale8.00-k_euler-mdjrny-v4.png&#34;/&gt;&lt;/div&gt;&#xA;  &lt;div id=&#34;item-1&#34;&gt;&lt;img src=&#34;../clone_wars/2022-11-21-19-23-51-01-clonewars_style_portrait_of_a__star_wars_jedi_knight-647223771-scale10.00-k_euler-Clonewars.png&#34;/&gt;&lt;/div&gt;&#xA;  &lt;div id=&#34;item-2&#34;&gt;&lt;img src=&#34;../arcane/2022-11-21-19-58-23-03-arcane_style_portrait_of_a_star_wars_character-1977044766-scale8.00-k_euler-nitroDiffusion-v1.png&#34;/&gt;&lt;/div&gt;&#xA;  &lt;div id=&#34;item-3&#34;&gt;&lt;img src=&#34;../arcane/2022-11-21-19-57-40-01-arcane_style_portrait_of_a_star_wars_character-1977044764-scale8.00-k_euler-nitroDiffusion-v1.png&#34;/&gt;&lt;img src=&#34;../arcane/2022-11-21-19-58-01-02-arcane_style_portrait_of_a_star_wars_character-1977044765-scale8.00-k_euler-nitroDiffusion-v1.png&#34;/&gt;&lt;/div&gt;&#xA;  &lt;div id=&#34;item-4&#34;&gt;&lt;img src=&#34;../clone_wars/2022-11-21-19-16-05-01-clonewars_style_portrait_of_a__star_wars_character-1745214978-scale10.00-k_euler-Clonewars.png&#34;/&gt;&lt;img src=&#34;../clone_wars/2022-11-21-19-34-34-05-clonewars_style_portrait_of_a__star_wars_blue_alien-378544092-scale18.00-k_euler-Clonewars.png&#34;/&gt;&lt;/div&gt;&#xA;  &lt;div id=&#34;item-5&#34;&gt;&lt;img src=&#34;../arcane/2022-11-21-20-01-25-02-arcane_style_portrait_of_redland_district_folk_hero_with_a_blue_and_white_mechanical_hand-509654800-scale8.00-k_euler-nitroDiffusion-v1.png&#34;/&gt;&lt;/div&gt;&#xA;  &lt;div id=&#34;item-6&#34;&gt;&lt;img src=&#34;../midjourney/2022-11-21-19-49-38-01-midjourney_style_anglo_saxon_city_daytime_mountains-383063500-scale8.00-k_euler-mdjrny-v4.png&#34;/&gt;&lt;/div&gt;&#xA;  &lt;div id=&#34;item-7&#34;&gt;&lt;img src=&#34;../clone_wars/2022-11-21-19-30-40-03-clonewars_style_portrait_of_a__star_wars_alien-1072873633-scale18.00-k_euler-Clonewars.png&#34;/&gt;&lt;/div&gt;&#xA;  &lt;div id=&#34;item-8&#34;&gt;&lt;img src=&#34;../clone_wars/2022-11-21-19-22-39-05-clonewars_style_portrait_of_a__female_star_wars_jedi_knight-323801838-scale10.00-k_euler-Clonewars.png&#34;/&gt;&lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>Dune, Adventures in the Imperium RPG: Review</title>
       <link>https://pumbers.github.io/game-manglement/posts/dune_rpg_review/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/posts/dune_rpg_review/</guid>
-      <description>Intended to coincide with the Dune 2021 movie, the much-anticipated Dune RPG from Modiphius has now been released while the movie has been delayed. How does it relate to the movie and what is it like? Here&amp;rsquo;s an initial review.
-Game System Like previous 2d20 system releases from Modiphius, such as Star Trek Adventures, John Carter and Conan, Dune has the same basic game mechanic as those earlier systems: to attempt a task, the GM sets a difficulty level, the player rolls 2 or more d20 against the sum of two relevant attribute values, and the number of successes from that roll determines not only whether they succeed but how well.</description>
+      <description>&lt;p&gt;&lt;em&gt;Intended to coincide with the &lt;strong&gt;Dune 2021&lt;/strong&gt; movie, the much-anticipated Dune RPG from Modiphius has now been released while the movie has been delayed. How does it relate to the movie and what is it like? Here&amp;rsquo;s an initial review.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;game-system&#34;&gt;Game System&lt;/h2&gt;&#xA;&lt;p&gt;Like previous 2d20 system releases from &lt;strong&gt;Modiphius&lt;/strong&gt;, such as &lt;strong&gt;Star Trek Adventures&lt;/strong&gt;, &lt;strong&gt;John Carter&lt;/strong&gt; and &lt;strong&gt;Conan&lt;/strong&gt;, &lt;strong&gt;Dune&lt;/strong&gt; has the same basic game mechanic as those earlier systems: to attempt a task, the GM sets a difficulty level, the player rolls 2 or more d20 against the sum of two relevant attribute values, and the number of successes from that roll determines not only whether they succeed but how well.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ultraviolet Grasslands: Session Two, Is that a gopher in your pants?</title>
       <link>https://pumbers.github.io/game-manglement/campaigns/uvg/session_two/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/campaigns/uvg/session_two/</guid>
-      <description>Having survived an attempted assassination from an unknown adversary (who seems to know a lot about Leo), our Heroes (capital H) head out into the Grasslands with the dwarves of Hog Enterprises, only to find that it is no safer than the city (and probably much worse).
-The Marut The sun has barely started to colour the sky to the east of the Violet City on the second day of Redmonth, when our Heroes (capital H) gather at the industrial unit rented by the dwarves of Hog Enterprises.</description>
+      <description>&lt;p&gt;&lt;em&gt;Having survived an attempted assassination from an unknown adversary (who seems to know a lot about Leo), our Heroes (capital H) head out into the Grasslands with the dwarves of Hog Enterprises, only to find that it is no safer than the city (and probably much worse).&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-marut&#34;&gt;The Marut&lt;/h2&gt;&#xA;&lt;p&gt;The sun has barely started to colour the sky to the east of the Violet City on the second day of Redmonth, when our Heroes (capital H) gather at the industrial unit rented by the dwarves of Hog Enterprises. They met &lt;strong&gt;Nezod Smeltgut&lt;/strong&gt; and &lt;strong&gt;Alfobeth Hardbrew&lt;/strong&gt; a few days earlier when they were hired, but now meet the rest of the company:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ultraviolet Grasslands: Session One, The Violet City</title>
       <link>https://pumbers.github.io/game-manglement/campaigns/uvg/session_one/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/campaigns/uvg/session_one/</guid>
-      <description>This first session of Ultraviolet Grasslands using Cypher System started off well enough, after a few weeks of planning and a Session Zero that built the characters, but fell flat when the GM (me) was hit by a power cut and lost all network connectivity other than Discord on my cellphone. But hey, these things are sent to make us stronger. The second session went a little better, so here&amp;rsquo;s the write-up for both.</description>
+      <description>&lt;p&gt;&lt;em&gt;This first session of Ultraviolet Grasslands using Cypher System started off well enough, after a few weeks of planning and a Session Zero that built the characters, but fell flat when the GM (me) was hit by a power cut and lost all network connectivity other than Discord on my cellphone. But hey, these things are sent to make us stronger. The second session went a little better, so here&amp;rsquo;s the write-up for both.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Did Star Wars Really Happen?</title>
       <link>https://pumbers.github.io/game-manglement/articles/did_star_wars_really_happen/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/articles/did_star_wars_really_happen/</guid>
-      <description>OK, this started as some fun with me messing with my friends heads in a series of Facebook posts while I was rewatching the original Star Wars trilogy, but it grew so out of hand I thought I&amp;rsquo;d expand on it here. To mess with your head.
-The Premise It&amp;rsquo;s simple: Star Wars didn&amp;rsquo;t really happen the way it did in the movies. Sure, there was an evil galactic empire that overthrew a good-natured republic and killed off a whole bunch of space-wizards in the process, but that was in the prequel trilogy and I&amp;rsquo;m not going to go there because while they&amp;rsquo;re kinda watchable movies they&amp;rsquo;re also pretty bad as far as the details and canon consistency are concerned, so I&amp;rsquo;m just going to focus on the original trilogy: A New Hope, The Empire Strikes Back, and Return of the Jedi.</description>
+      <description>&lt;p&gt;&lt;em&gt;OK, this started as some fun with me messing with my friends heads in a series of Facebook posts while I was rewatching the original Star Wars trilogy, but it grew so out of hand I thought I&amp;rsquo;d expand on it here. To mess with your head.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-premise&#34;&gt;The Premise&lt;/h2&gt;&#xA;&lt;p&gt;It&amp;rsquo;s simple: Star Wars didn&amp;rsquo;t really happen the way it did in the movies. Sure, there was an evil galactic empire that overthrew a good-natured republic and killed off a whole bunch of space-wizards in the process, but that was in the prequel trilogy and I&amp;rsquo;m not going to go there because while they&amp;rsquo;re kinda watchable movies they&amp;rsquo;re also pretty bad as far as the details and canon consistency are concerned, so I&amp;rsquo;m just going to focus on the original trilogy: A New Hope, The Empire Strikes Back, and Return of the Jedi.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Thousand Year Old Vampire: Journal of Grimaud de Fremay</title>
       <link>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_journal/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/campaigns/thousand_year_old/grimaud_journal/</guid>
-      <description>After hearing and reading so much about it, I decided to dive in and try out Thousand Year Old Vampire by Tim Hutchings. I have it in my head that I&amp;rsquo;d like to play a young Frankish knight from the Dark Age reign of Charlemagne, so I dig out my copy of Paladin: Warriors of Charlemagne by Ruben in ’t Groen because not only is it a great historical RPG but it also provides a lot of the detail for the initial period that I&amp;rsquo;ll need.</description>
+      <description>&lt;p&gt;&lt;em&gt;After hearing and reading so much about it, I decided to dive in and try out &lt;a href=&#34;https://thousandyearoldvampire.com/&#34;&gt;Thousand Year Old Vampire&lt;/a&gt; by Tim Hutchings. I have it in my head that I&amp;rsquo;d like to play a young Frankish knight from the Dark Age reign of Charlemagne, so I dig out my copy of &lt;a href=&#34;https://www.drivethrurpg.com/product/234701/PALADIN-Warriors-of-Charlemagne&#34;&gt;Paladin: Warriors of Charlemagne&lt;/a&gt; by Ruben in ’t Groen because not only is it a great historical RPG but it also provides a lot of the detail for the initial period that I&amp;rsquo;ll need.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Star Empires for Roleplaying: The Hyperion Cantos</title>
       <link>https://pumbers.github.io/game-manglement/articles/empires_hyperion/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/articles/empires_hyperion/</guid>
-      <description>When it comes to science-fiction roleplaying games, Traveller is granddaddy of them all, and it has it&amp;rsquo;s own setting (the Third Imperium) that&amp;rsquo;s been around from day one. Outside role-playing (but supported by several different games over the years) you have universes such as Star Wars, Star Trek and, more recently, The Expanse. But what other &amp;ldquo;universes&amp;rdquo; are there out there for adventuring, what kinds of stories might they inspire, and what RPG systems suit their particular style of story telling.</description>
+      <description>&lt;p&gt;&lt;em&gt;When it comes to science-fiction roleplaying games, Traveller is granddaddy of them all, and it has it&amp;rsquo;s own setting (the Third Imperium) that&amp;rsquo;s been around from day one. Outside role-playing (but supported by several different games over the years) you have universes such as Star Wars, Star Trek and, more recently, The Expanse. But what other &amp;ldquo;universes&amp;rdquo; are there out there for adventuring, what kinds of stories might they inspire, and what RPG systems suit their particular style of story telling.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Building Compendia for Foundry VTT</title>
       <link>https://pumbers.github.io/game-manglement/articles/vtt_compendia_building/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/articles/vtt_compendia_building/</guid>
-      <description>Creating A Compendium From the official Knowledge Base and the community web site, there are two explanations given on how to create a compendium for Foundry VTT, others are often discussed on the Discord server. The first, and most obvious, is to create it manually within a game world, but this has several limitations: it&amp;rsquo;s slow and time consuming to create and edit once created, and (without some jiggery-pokery) the compendium is bound to that particular world and not easily re-used across several game worlds.</description>
+      <description>&lt;h2 id=&#34;creating-a-compendium&#34;&gt;Creating A Compendium&lt;/h2&gt;&#xA;&lt;p&gt;From the &lt;a href=&#34;https://foundryvtt.com/article/compendium/&#34;&gt;official Knowledge Base&lt;/a&gt; and the &lt;a href=&#34;https://foundry-vtt-community.github.io/&#34;&gt;community web site&lt;/a&gt;, there are two explanations given on how to create a compendium for &lt;a href=&#34;https://foundryvtt.com/&#34;&gt;Foundry VTT&lt;/a&gt;, others are often discussed on the Discord server. The first, and most obvious, is to create it manually within a game world, but this has several limitations: it&amp;rsquo;s slow and time consuming to create and edit once created, and (without some jiggery-pokery) the compendium is bound to that particular world and not easily re-used across several game worlds.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Wolves of God: Adventures in Dark Ages England</title>
       <link>https://pumbers.github.io/game-manglement/posts/wolves_of_god_review/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/posts/wolves_of_god_review/</guid>
-      <description>It is 710 AD. It is an age of iron and ruin, a wolf-season amid the ashes of Roman Britain. The spears of the English tribes are raised against their rivals, and the Wealh of the western hills remember bitterly what was taken from them. The shattered caesters of past Roman glory litter the land, each one laden with forgotten troves hidden by desperate men of the last days. Sorcerous Arxes once sealed against a Roman rescue that never came are now cracking open, the changed refugees within now seeking vengeance for a ruin of centuries past.</description>
+      <description>&lt;p&gt;&lt;em&gt;It is 710 AD. It is an age of iron and ruin, a wolf-season amid the ashes of Roman Britain. The spears of the English tribes are raised against their rivals, and the Wealh of the western hills remember bitterly what was taken from them. The shattered caesters of past Roman glory litter the land, each one laden with forgotten troves hidden by desperate men of the last days. Sorcerous Arxes once sealed against a Roman rescue that never came are now cracking open, the changed refugees within now seeking vengeance for a ruin of centuries past. The holy minsters of pious monks and godly nuns stand as bulwarks against cruel and merciless bloodshed, but can their labors ever hope to tame the beasts within their kinsmen&amp;rsquo;s hearts?&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Downcrawl: Session Four</title>
       <link>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_four/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_four/</guid>
-      <description>Swept away by the huge wave, Eirik and Sherman struggled to stay afloat for what seemed like hours, but was probably only a few minutes. Their feet first brushed, then settled on solid ground and, as the water drained away, they could just make out in the dim Fuzz light, that they had come to rest on a smooth stone floor. Beyond more than a dozen feet or so, what little light there was faded into a grey nothingness.</description>
+      <description>&lt;p&gt;&lt;em&gt;Swept away by the huge wave, Eirik and Sherman struggled to stay afloat for what seemed like hours, but was probably only a few minutes. Their feet first brushed, then settled on solid ground and, as the water drained away, they could just make out in the dim Fuzz light, that they had come to rest on a smooth stone floor. Beyond more than a dozen feet or so, what little light there was faded into a grey nothingness. Taking some time to gather themselves, they moved off.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Downcrawl: Session Three</title>
       <link>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_three/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_three/</guid>
-      <description>Standing in the doorway of the Alchemist&amp;rsquo;s Tower, the blood drained from Sherman&amp;rsquo;s face as he looked out onto streets swarming with green-eyed undead shambling and stumbling toward them.
-&amp;ldquo;How many?&amp;rdquo;, said Eirik, limbering up his massive shoulders and arms ready for the coming fight.
-&amp;ldquo;Err&amp;hellip; all of &amp;rsquo;em, I think&amp;rdquo;, said Sherman. Eirik&amp;rsquo;s face went blank with thought.
-&amp;ldquo;Door?&amp;rdquo;, asked Sherman. &amp;ldquo;Door&amp;rdquo;, Eirik nodded, and they started looking around for something to bar the door with.</description>
+      <description>&lt;p&gt;&lt;em&gt;Standing in the doorway of the Alchemist&amp;rsquo;s Tower, the blood drained from Sherman&amp;rsquo;s face as he looked out onto streets swarming with green-eyed undead shambling and stumbling toward them.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;How many?&amp;rdquo;, said Eirik, limbering up his massive shoulders and arms ready for the coming fight.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Err&amp;hellip; all of &amp;rsquo;em, I think&amp;rdquo;, said Sherman. Eirik&amp;rsquo;s face went blank with thought.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Door?&amp;rdquo;, asked Sherman. &amp;ldquo;Door&amp;rdquo;, Eirik nodded, and they started looking around for something to bar the door with.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Downcrawl: Session Two</title>
       <link>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_two/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_two/</guid>
-      <description>When last we saw our heroes, they had just been hired by local &amp;ldquo;businessman&amp;rdquo; and rather colorfully-dressed elf, Gwindore, to head for the catacombs far above Bone Falls and search for another party of adventurers sent in some weeks ago and who have not reappeared since. Gwindore was willing to pay them 10 keys each with another 5 keys per adventurer found alive. Cuthmar had still not appeared after the party lost him in the tunnels outside Bone Falls days ago, and now Celiophane had also gone missing, but intent on making a fast fortune, Sherman and Eirik set on their way.</description>
+      <description>&lt;p&gt;&lt;em&gt;When last we saw our heroes, they had just been hired by local &amp;ldquo;businessman&amp;rdquo; and rather colorfully-dressed elf, Gwindore, to head for the catacombs far above Bone Falls and search for another party of adventurers sent in some weeks ago and who have not reappeared since. Gwindore was willing to pay them 10 keys each with another 5 keys per adventurer found alive. Cuthmar had still not appeared after the party lost him in the tunnels outside Bone Falls days ago, and now Celiophane had also gone missing, but intent on making a fast fortune, Sherman and Eirik set on their way.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Chivalry &amp; Sorcery - 5th Edition, First Read</title>
       <link>https://pumbers.github.io/game-manglement/posts/cns_5th_review/</link>
       <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/posts/cns_5th_review/</guid>
-      <description>In recent years, we&amp;rsquo;ve seen a lot of early RPGs, such as Traveller and Runequest, resurrected in new editions with cleaner rules and more modern presentations which, for the most part, have retained the original feel of the game. Chivalry &amp;amp; Sorcery has seen several editions over the years, the last almost 20 years ago in 2000 (not counting the 2011 &amp;ldquo;Essence&amp;rdquo; release which was only 44 pages). Now, following a successful Kickstarter, a new 5th Edition has returned at a whopping 602 pages.</description>
+      <description>&lt;p&gt;&lt;em&gt;In recent years, we&amp;rsquo;ve seen a lot of early RPGs, such as Traveller and Runequest, resurrected in new editions with cleaner rules and more modern presentations which, for the most part, have retained the original feel of the game. &lt;strong&gt;Chivalry &amp;amp; Sorcery&lt;/strong&gt; has seen several editions over the years, the last almost 20 years ago in 2000 (not counting the 2011 &amp;ldquo;Essence&amp;rdquo; release which was only 44 pages). Now, following a successful Kickstarter, a new &lt;strong&gt;5th Edition&lt;/strong&gt; has returned at a whopping 602 pages. Here is a little history and some thoughts on the first-reading of this new version.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Downcrawl: Session One</title>
       <link>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_one/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/campaigns/downcrawl/session_one/</guid>
-      <description>When we first met our heroes, they were already well on the way to making a name for themselves. Sherman, Cuthmar, Eirik and Celiophane had taken on the task of rescuing a local merchant’s daughter from a band of marauding goblins, tracked the goblins to their cave-lair and fought their way to the goblin shaman who was about to make a blood sacrifice of the young girl. They figured they’d won, but with his dying breath the shaman uttered a dire curse.</description>
+      <description>&lt;p&gt;&lt;em&gt;When we first met our heroes, they were already well on the way to making a name for themselves. Sherman, Cuthmar, Eirik and Celiophane had taken on the task of rescuing a local merchant’s daughter from a band of marauding goblins, tracked the goblins to their cave-lair and fought their way to the goblin shaman who was about to make a blood sacrifice of the young girl. They figured they’d won, but with his dying breath the shaman uttered a dire curse. The cave shook, the ceiling started to crumble, and the floor gave way under the group. They fell, physically and mentally, into darkness.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Star Trek Adventures: Search and Rescue</title>
       <link>https://pumbers.github.io/game-manglement/articles/sta_sar/</link>
       <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/articles/sta_sar/</guid>
-      <description>The Star Trek Adventures: Command Division sourcebook introduced stats for new ships from Star Trek canon, many of which have either never been seen or seen only rarely on-screen. Among them is the Norway Class, which was designed by the Advanced Starship Design Bureau for rapid emergency response. So, what&amp;rsquo;s it like being on the crew of one of these ships, what adventures can you have and how do you handle them?</description>
+      <description>&lt;p&gt;&lt;em&gt;The &lt;strong&gt;Star Trek Adventures: Command Division&lt;/strong&gt; sourcebook introduced stats for new ships from Star Trek canon, many of which have either never been seen or seen only rarely on-screen. Among them is the &lt;strong&gt;Norway Class&lt;/strong&gt;, which was designed by the Advanced Starship Design Bureau for rapid emergency response. So, what&amp;rsquo;s it like being on the crew of one of these ships, what adventures can you have and how do you handle them?&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Star Trek Adventures: Fighters</title>
       <link>https://pumbers.github.io/game-manglement/articles/sta_fighters/</link>
       <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/articles/sta_fighters/</guid>
-      <description>The Command Division sourcebook for Star Trek Adventures includes, almost hidden away in the Federation Small Craft chapter, the details of the Federation Attack Fighter, also called the Zabathu1 class (after an Andorian riding animal). This is really the first reference in the rules made to any sort of fighter class ship and, to be sure, such craft are rarely seen in Star Trek itself. Most ship battles on screen are between two or more capital ships which make up the vast majority of any faction’s fleet.</description>
+      <description>&lt;p&gt;&lt;em&gt;The &lt;strong&gt;Command Division&lt;/strong&gt; sourcebook for &lt;strong&gt;Star Trek Adventures&lt;/strong&gt; includes, almost hidden away in the &lt;strong&gt;Federation Small Craft&lt;/strong&gt; chapter, the details of the Federation Attack Fighter, also called the Zabathu&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; class (after an Andorian riding animal). This is really the first reference in the rules made to any sort of fighter class ship and, to be sure, such craft are rarely seen in Star Trek itself. Most ship battles on screen are between two or more &lt;strong&gt;capital ships&lt;/strong&gt; which make up the vast majority of any faction’s fleet. The biggest part played by fighters was during some of the major battles seen in Star Trek: Deep Space Nine, most notably the Second Battle of Deep Space Nine from “Call To Arms” (ep5x26) and The Invasion of Cardassia from the show’s finale episodes.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Brass: Kickstarter Edition, Review</title>
       <link>https://pumbers.github.io/game-manglement/posts/brass_review/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/posts/brass_review/</guid>
-      <description>Brass is a board game set in Lancashire, England during the Industrial Revolution, developed by Martin Wallace and originally released in 2007. The object is to use cards and cash to build mines, cotton factories, ports, canals and rail links, and establish trade routes, all of which will be used to victory score points. This review covers the newly-released Lancashire and Birmingham editions from the 2017 Kickstarter campaign by Roxley Games.</description>
+      <description>&lt;p&gt;&lt;em&gt;Brass is a board game set in Lancashire, England during the Industrial Revolution, developed by Martin Wallace and originally released in 2007. The object is to use cards and cash to build mines, cotton factories, ports, canals and rail links, and establish trade routes, all of which will be used to victory score points. This review covers the newly-released Lancashire and Birmingham editions from the 2017 Kickstarter campaign by Roxley Games.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

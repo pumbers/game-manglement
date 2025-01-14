@@ -4,71 +4,58 @@
     <title>Categories on Game Manglement</title>
     <link>https://pumbers.github.io/game-manglement/categories/</link>
     <description>Recent content in Categories on Game Manglement</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pumbers.github.io/game-manglement/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pumbers.github.io/game-manglement/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Role Playing Games</title>
       <link>https://pumbers.github.io/game-manglement/categories/role-playing-games/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/categories/role-playing-games/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AI Image Generation</title>
       <link>https://pumbers.github.io/game-manglement/categories/ai-image-generation/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/categories/ai-image-generation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Reviews</title>
       <link>https://pumbers.github.io/game-manglement/categories/reviews/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/categories/reviews/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Movies</title>
       <link>https://pumbers.github.io/game-manglement/categories/movies/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/categories/movies/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Solo</title>
       <link>https://pumbers.github.io/game-manglement/categories/solo/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/categories/solo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Software</title>
       <link>https://pumbers.github.io/game-manglement/categories/software/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/categories/software/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Board Games</title>
       <link>https://pumbers.github.io/game-manglement/categories/board-games/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/categories/board-games/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

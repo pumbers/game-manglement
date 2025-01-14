@@ -4,17 +4,16 @@
     <title>Software on Game Manglement</title>
     <link>https://pumbers.github.io/game-manglement/categories/software/</link>
     <description>Recent content in Software on Game Manglement</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pumbers.github.io/game-manglement/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pumbers.github.io/game-manglement/categories/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Compendia for Foundry VTT</title>
       <link>https://pumbers.github.io/game-manglement/articles/vtt_compendia_building/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://pumbers.github.io/game-manglement/articles/vtt_compendia_building/</guid>
-      <description>Creating A Compendium From the official Knowledge Base and the community web site, there are two explanations given on how to create a compendium for Foundry VTT, others are often discussed on the Discord server. The first, and most obvious, is to create it manually within a game world, but this has several limitations: it&amp;rsquo;s slow and time consuming to create and edit once created, and (without some jiggery-pokery) the compendium is bound to that particular world and not easily re-used across several game worlds.</description>
+      <description>&lt;h2 id=&#34;creating-a-compendium&#34;&gt;Creating A Compendium&lt;/h2&gt;&#xA;&lt;p&gt;From the &lt;a href=&#34;https://foundryvtt.com/article/compendium/&#34;&gt;official Knowledge Base&lt;/a&gt; and the &lt;a href=&#34;https://foundry-vtt-community.github.io/&#34;&gt;community web site&lt;/a&gt;, there are two explanations given on how to create a compendium for &lt;a href=&#34;https://foundryvtt.com/&#34;&gt;Foundry VTT&lt;/a&gt;, others are often discussed on the Discord server. The first, and most obvious, is to create it manually within a game world, but this has several limitations: it&amp;rsquo;s slow and time consuming to create and edit once created, and (without some jiggery-pokery) the compendium is bound to that particular world and not easily re-used across several game worlds.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
